@@ -11,7 +11,8 @@ exports.list = function(req, res){
 
 // _CHANGE_ : Please comment the line with the DUMMY message and uncomment the one with the Welcome message
         //"MESSAGE": "DUMMY message V1"
-        "MESSAGE": "Welcome to aura-js-creditscore version V1"
+        //"MESSAGE": "Welcome to aura-js-creditscore version V1"
+        "MESSAGE": "Welcome Amy to aura-js-creditscore version V1"    
 
     };
 
